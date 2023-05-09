@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.a {
+  background-color: #ffd569;
+  height: 100vh;
+  width: 100%;
+  padding: 30px;
+}
+.mango-count {
+  color: #ffd569;
+}
+
+.banana-count {
+  color: #ffd569;
+}
+.ntr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.kk {
+  display: flex;
+  flex-direction: column;
+}
+.bb {
+  padding: 20px;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 10px;
+  text-align: center;
+  height: 80%;
+}
+.p {
+  background-color: #007bff;
+  color: white;
+  border-radius: 10px;
+  height: 50px;
+  width: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.po {
+  width: 200px;
+  height: 200px;
+}
